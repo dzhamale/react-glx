@@ -1,0 +1,18 @@
+{
+  "name": "react-glx",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzhamale/react-glx.git"
+  },
+  "keywords": [
+    "react",
+    "webgl"
+  ],
+  "author": "dzhamale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dzhamale/react-glx/issues"
+  },
+  "homepage": "https://github.com/dzhamale/react-glx#readme"
+}
